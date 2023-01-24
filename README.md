@@ -1,4 +1,4 @@
-# Deep Ranking Ensembles [ICLR 2023]
+# [ICLR 2023] Deep Ranking Ensembles 
 Repository for Deep Ranking Ensembles for Hyperparameter Optimization.
 
 # Setup
