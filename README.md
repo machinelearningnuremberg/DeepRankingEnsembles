@@ -1,6 +1,10 @@
 # Deep Ranking Ensembles
 Repository for Deep Ranking Ensembles for Hyperparameter Optimization (ICLR 2023 Conference Paper942).
 <img src="./DREArchitecture.svg">
+<p align="center">
+  <img src="dre_logo.png" />
+</p>
+
 
 # Setup
 ## Environment Setup
