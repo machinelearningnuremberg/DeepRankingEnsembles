@@ -1,6 +1,6 @@
 # Deep Ranking Ensembles
 Repository for Deep Ranking Ensembles for Hyperparameter Optimization (ICLR 2023 Conference Paper942).
-
+<img src="./DREArchitecture.svg">
 # Setup
 ## Environment Setup
 * Install anaconda/miniconda according to the [Installation Instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html "Named link title").
