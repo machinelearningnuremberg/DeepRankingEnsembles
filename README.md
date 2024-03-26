@@ -65,4 +65,16 @@ The following table shows the `train_index` and `eval_index` corresponding to ea
 |     7607         |      14     |  360 - 394  |
 |     7609         |      15     |  395 - 429  |
 
+## Citation
 
+You can cite our work as follows:
+```bib
+@inproceedings{
+khazi2023deep,
+title={Deep Ranking Ensembles for Hyperparameter Optimization},
+author={Abdus Salam Khazi and Sebastian Pineda Arango and Josif Grabocka},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=_ruvo2KCL2x}
+}
+```
